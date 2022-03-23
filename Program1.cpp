@@ -5,7 +5,7 @@ using namespace std;
 #include<algorithm>
 #include<functional>
 
-int solve(int m)
+int solve(int k)
 {
 int n;
 cin>>n;
